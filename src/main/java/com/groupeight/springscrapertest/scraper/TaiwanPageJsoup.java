@@ -1,4 +1,4 @@
-package com.groupeight.springscrapertest.pages;
+package com.groupeight.springscrapertest.scraper;
 
 import org.json.JSONObject;
 import org.jsoup.Connection;

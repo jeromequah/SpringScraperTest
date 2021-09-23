@@ -1,5 +1,5 @@
 package com.groupeight.springscrapertest;
-import com.groupeight.springscrapertest.pages.TaiwanPageJsoup;
+import com.groupeight.springscrapertest.scraper.TaiwanPageJsoup;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
